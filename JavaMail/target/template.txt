@@ -1,0 +1,3 @@
+<title>Тема заголовка</title>
+
+<body>Здравствуйте \fullname\phone, позвоните по номеру \phone \\phone \firstname \lastname \qwe</body>
